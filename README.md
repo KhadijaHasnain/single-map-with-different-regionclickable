@@ -1,0 +1,1 @@
+# single-map-with-different-regionclickable
